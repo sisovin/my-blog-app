@@ -1,2 +1,1 @@
-# my-blog-app
-A repository for my blog app project
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
